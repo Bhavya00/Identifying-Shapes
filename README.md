@@ -1,2 +1,2 @@
 # Identifying-Shapes
-A simple Application of OpenCv
+A simple Application of OpenCV
